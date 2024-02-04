@@ -1,4 +1,4 @@
-Currency Converter Project
+
 Welcome to the Currency Converter project repository! This project is designed to provide a simple yet effective tool for converting currencies, making it easy for users to perform accurate and up-to-date currency conversions.
 
 Features
